@@ -1,0 +1,11 @@
+---
+tags:
+  - Computer_Architecture_and_Network_Systems
+---
+- De Morgan's Laws
+	- Not(A and B) == not A or not B
+	- Not(A or B) == not A and not B
+- Complements
+- Identify
+- Annihilation
+- Idemopotence

@@ -1,0 +1,11 @@
+---
+tags:
+  - Web_Application_Systems
+---
+- Useful
+- [[Usability|Usable]]
+- Desirable
+- [[Findability|Findable]]
+- Accessible
+- Credible
+- [[Understandability|Understandable]]
